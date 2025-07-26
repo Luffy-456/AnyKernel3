@@ -71,8 +71,8 @@ if [ -d /data/adb/magisk ] || [ -f /sbin/.magisk ]; then
     esac
 fi
 
-ui_print "Starting kernel installation..."
-ui_print "Power by GitHub@LuffyOP⚡"
+ui_print "Starting JoyBoy kernel installation..."
+ui_print "Maintainer: LuffyOP⚡"
 ui_print "Features:"
 ui_print "-> SukiSU Ultra "
 ui_print "-> SUSFS ඞ "
